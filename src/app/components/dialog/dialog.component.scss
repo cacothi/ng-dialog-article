@@ -1,0 +1,15 @@
+:host {
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.dialog {
+	display: block;
+	position: fixed;
+	width: 50vw;
+	left: 50%;
+	margin-left: -25vw;
+}
